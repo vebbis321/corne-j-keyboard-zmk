@@ -81,7 +81,7 @@
             bindings = <
 &trans  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PERCENT                                &mmv MOVE_UP                     &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR          &kp RPAR           &kp BSPC
 &trans  &kp N1    &kp N2  &kp N3    &kp N4    &kp N5                     &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp UNDER  &kp PLUS   &kp LBRC   &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp RBRC
-&trans  &kp N6    &kp N7  &kp N8    &kp N9    &kp N0       &kp C_MUTE                    &mmv MOVE_DOWN                   &kp EQUAL  &kp MINUS  &trans     &trans            &kp TILDE          &kp GRAVE
+&trans  &kp N6    &kp N7  &kp N8    &kp N9    &kp N0       &kp C_MUTE                    &mmv MOVE_DOWN                   &kp MINUS  &kp EQUAL  &trans     &trans            &kp TILDE          &kp GRAVE
                           &trans    &trans    &trans                                                                      &trans     &trans     &mo 3
             >;
 
